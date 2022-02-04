@@ -5,3 +5,5 @@
 ## Hi, I'm Wout! 🚀
 
 back-end developer at MEDIACODE
+
+![](https://komarev.com/ghpvc/?username=woutmeijer)
